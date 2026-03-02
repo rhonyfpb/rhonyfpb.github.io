@@ -2,12 +2,12 @@
 
 ## v0.1.0
 
-- Fecha de despliegue: 2026-03-02 04:46 UTC
-- Fuente: private-lkftrme@6398bf351b81bd274dcce1490116730b8acad663
-- Workflow: https://github.com/rhonyfpb/private-lkftrme/actions/runs/22561803513
+- Fecha de despliegue: 2026-03-02 05:02 UTC
+- Fuente: private-lkftrme@c81dbdd6060790cb65893cf2e2ec0c7a4f28678c
+- Workflow: https://github.com/rhonyfpb/private-lkftrme/actions/runs/22562150615
 
 ### Commits incluidos
-- fix(ci): corregir version en el workflow de despliegue (6398bf3)
+- fix(deploy): uso de raiz como base para el path en las rutas de los recursos (c81dbdd)
 
-<!-- deployment:6398bf351b81bd274dcce1490116730b8acad663 -->
+<!-- deployment:c81dbdd6060790cb65893cf2e2ec0c7a4f28678c -->
 
