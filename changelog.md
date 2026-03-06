@@ -2,12 +2,13 @@
 
 ## v0.1.0
 
-- Fecha de despliegue: 2026-03-02 05:02 UTC
-- Fuente: private-lkftrme@c81dbdd6060790cb65893cf2e2ec0c7a4f28678c
-- Workflow: https://github.com/rhonyfpb/private-lkftrme/actions/runs/22562150615
+- Fecha de despliegue: 2026-03-06 05:16 UTC
+- Fuente: private-lkftrme@c536b55094a31d2bf613d2144e85a33665060b55
+- Workflow: https://github.com/rhonyfpb/private-lkftrme/actions/runs/22750175016
 
 ### Commits incluidos
-- fix(deploy): uso de raiz como base para el path en las rutas de los recursos (c81dbdd)
+- Merge pull request #1 from rhonyfpb/develop (c536b55)
+- feat(site): generacion de templates para los productos (a83333d)
 
-<!-- deployment:c81dbdd6060790cb65893cf2e2ec0c7a4f28678c -->
+<!-- deployment:c536b55094a31d2bf613d2144e85a33665060b55 -->
 
